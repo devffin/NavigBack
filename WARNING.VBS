@@ -1,0 +1,1 @@
+MsgBox "Si vous ne voyez pas le navigateur apres 1 minute, installez ou reinstallez Python et demandez de l'aide a notre support si besoin.",48,"Superea SAL"
